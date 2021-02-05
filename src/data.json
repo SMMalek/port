@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "A77a",
+    "image": "./A77a.png",
+    "desc": "The 1st pan must be hot enough to hold the shit from the shoot",
+    "price": 3
+  },{
+    "id": 2,
+    "name": "A77o",
+    "image":"./A77o.png",
+    "desc": "The 2nd pan must be hot enough to hold the shit from the shoot",
+    "price": 7
+  },{
+    "id": 3,
+    "name": "A77e",
+    "image": "./A77e.png",
+    "desc": "The 3rd pan must be hot enough to hold the shit from the shoot",
+    "price": 5
+  },
+  {
+    "id": 4,
+    "name": "A777",
+    "image": "./A777.png",
+    "desc": "The 4th pan must be hot enough to hold the shit from the shoot",
+    "price": 4
+  }
+]
